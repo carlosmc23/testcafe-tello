@@ -1,0 +1,8 @@
+# Generated files
+.vscode/
+
+# Json
+config.js
+
+# node
+node_modules/
