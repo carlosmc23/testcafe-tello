@@ -9,5 +9,5 @@ in config.js.dist almost one account.
 - to run all test:
     npm run test
 - to run one specific test:
-    testcafe chrome tests/<test>.js --speed 0.9 --skip-js-errors
+    testcafe chrome tests/[test-name].js --speed 0.9 --skip-js-errors
 
